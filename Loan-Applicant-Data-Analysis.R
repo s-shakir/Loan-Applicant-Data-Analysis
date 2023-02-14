@@ -5,7 +5,7 @@ library(ggplot2)
 
 #--------Data Set for Task 1-------
 
-dataset <- read.csv("F:\\1.Masters in Data Science (Fast)\\Stats\\Assignments\\assignment no 3\\LoanApplicant_Dataset.csv")
+dataset <- read.csv("https://raw.githubusercontent.com/s-shakir/Loan-Applicant-Data-Analysis/main/LoanApplicant_Dataset.csv")
 View(dataset)
 
 
